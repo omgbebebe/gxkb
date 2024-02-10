@@ -13,6 +13,7 @@ images_DATA =        \
     br.png           \
     bt.png           \
     bw.png           \
+    by.png           \
     ca.png           \
     cd.png           \
     ch.png           \
@@ -78,6 +79,7 @@ images_DATA =        \
     pt.png           \
     ro.png           \
     rs.png           \
+    ru.png           \
     se.png           \
     si.png           \
     sk.png           \
